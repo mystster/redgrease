@@ -1,0 +1,12 @@
+{
+  "name": "redgrease",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.user.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "myst",
+  "license": "MIT"
+}
