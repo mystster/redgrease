@@ -408,3 +408,4 @@ Arduino/build/
 act/
 redmine_data/
 *.local.env
+dist/

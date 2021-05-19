@@ -28,13 +28,14 @@
 	// Add the IDs of extensions you want installed when the container is created in the array below.
 	"extensions": [
 		"dbaeumer.vscode-eslint",
-		"octref.vetur",
+		"johnsoncodehk.volar",
 		"visualstudioexptteam.vscodeintellicode",
 		"eamodio.gitlens",
 		"donjayamanne.githistory",
 		"codezombiech.gitignore",
 		"aaron-bond.better-comments",
 		"albert.tabout",
-		"github.vscode-pull-request-github"
+		"github.vscode-pull-request-github",
+		"adpyke.vscode-userscript"
 	]
 }
