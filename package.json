@@ -5,8 +5,6 @@
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "watch": "parcel watch index.user.ts --no-source-maps",
-    "pbuild": "parcel build index.user.ts --no-source-maps --no-content-hash",
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
     "serve": "vite preview"
