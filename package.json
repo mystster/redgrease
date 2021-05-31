@@ -12,6 +12,7 @@
   "author": "myst",
   "license": "MIT",
   "dependencies": {
+    "gantt-schedule-timeline-calendar": "^3.7.1",
     "vue": "^3.0.11"
   },
   "devDependencies": {
