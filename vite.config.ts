@@ -14,6 +14,13 @@ export default defineConfig({
 // */
 `)
 	],
+	server: {
+		watch: {
+			usePolling: true,
+			interval: 1000,
+			binaryInterval: 2000
+		}
+	},
 	build: {
 		target: "esnext",
 		assetsInlineLimit: 100000000,
