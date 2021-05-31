@@ -1,18 +1,9 @@
 import { defineConfig } from "vite"
 import vue from "@vitejs/plugin-vue"
-import Banner from 'vite-plugin-banner'
 
 export default defineConfig({
   plugins: [
-    vue(),
-    Banner(`// ==UserScript==
-// @name myst
-// @namespace myst.redgrease
-// @match https://*
-// @grant none
-// ==/UserScript==
-// */
-`)
+    vue()
 	],
 	server: {
 		watch: {
