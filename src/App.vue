@@ -1,5 +1,6 @@
 <template>
-  <HelloWorld msg="Hello Vue 3 + TypeScript + Vite" />
+  <h2>Gantt chart</h2>
+  <!-- <HelloWorld msg="Hello Vue 3 + TypeScript + Vite" /> -->
   <Gantt></Gantt>
 </template>
 
