@@ -1,4 +1,6 @@
 # Vue 3 + Typescript + Vite
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmystster%2Fredgrease.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmystster%2Fredgrease?ref=badge_shield)
+
 
 This template should help get you started developing with Vue 3 and Typescript in Vite.
 
@@ -25,3 +27,7 @@ Run `Volar: Switch TS Plugin on/off` from VSCode command palette.
 3. Open `src/main.ts` in VSCode
 4. Open the VSCode command palette
 5. Search and run "Select TypeScript version" -> "Use workspace version"
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmystster%2Fredgrease.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmystster%2Fredgrease?ref=badge_large)
